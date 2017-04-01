@@ -1,4 +1,4 @@
 # Summary
 
-* [What is XYZ?](first-question.md)
-* [How can I do X?](second-question.md)
+* [GitBook 소개](README.md)
+
