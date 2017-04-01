@@ -8,9 +8,7 @@ Gitbook은 web상에서 곧바로 문서를 만들수 있는 서비스다.
 
 Gitbook의 open source project 참고: [https://github.com/GitbookIO/gitbook](https://github.com/GitbookIO/gitbook)
 
-
-
-기본적으로, GitBook으로 만든 document는 곧바로 web상에 publish 되어, 여러 사람들이 볼 수 있는 구조로 되어 있다. 
+기본적으로, GitBook으로 만든 document는 곧바로 web상에 publish 되어, 여러 사람들이 볼 수 있는 구조로 되어 있다.
 
 꼭 Book의 형태가 아니어도, API Document의 형식이나, Q&A와 같은 knowledge기반의 문서 역시 생성 가능히다.
 
@@ -28,9 +26,11 @@ GitBook에서 문서를 작성하는 문서 작성 툴 역시 기본적으로 �
 
 일단 Web 서비스이다보니, web에서 곧바로 edting하여 저장\(publish\)할 수 있는 기능을 제공한다.
 
+게다가, markdown\(md\)을 지원해서, wiki나 confluence사용자들이, 기존에 작성하던 방식 그대로 문서 작성을 할 수 있도록 한다.
+
 거기에 더하여, 아래 그림과 같이, 기존 문서들\(pdf, docx, xml, ...\)을 import하거나, github, 또는 git\(bitbucket\)을 연동하는 것 또한 가능하다.![](/assets/gitbook-newbook-add.png)
 
-
+또한 offline에서 사용가능한 editor 역시 제공하고 있다.![](/assets/gitbook-offline-editor.png)
 
 
 
