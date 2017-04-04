@@ -171,15 +171,5 @@ bundle exec jekyll serve
 
 Jekyll docs: [https://jekyllrb.com/docs/home/](https://jekyllrb.com/docs/home/)
 
-
-
-
-
-
-
-
-
-
-
-
+Jekyll Themes: [https://jekyllthemes.io/](https://jekyllthemes.io/)
 
