@@ -163,11 +163,21 @@ bundle exec jekyll serve
 
 ![](/assets/jekyll-bundle-start.png)
 
-
-
-이제 브라우저에서. `http://127.0.0.1:4000/` 에 접속해 보자.. 
+이제 브라우저에서. `http://127.0.0.1:4000/` 에 접속해 보자..
 
 아래와 같이 정상적으로 동작함을 볼 수 있다.![](/assets/window-run-jekyll.png)
+
+이제 Window에서 즐거운 코딩을 하면 된다~!
+
+Jekyll docs: [https://jekyllrb.com/docs/home/](https://jekyllrb.com/docs/home/)
+
+
+
+
+
+
+
+
 
 
 
