@@ -113,3 +113,77 @@ C:\Python27;C:\Python27\Scripts;
 
 ![](/assets/python-check.png)
 
+
+
+##### Jekyll 설치하기
+
+여기까지 진행했으면, Jekyll을 window에서 설치해서 사용하기 위한 기본 requirements에 대한 설정은 완료 되었다.
+
+이제 실제 Jekyll을 window에서 설치 해보자
+
+[https://jekyllrb.com/docs/installation/](https://jekyllrb.com/docs/installation/) 에 jekyll 의 설치 방법이 잘 나와 있다.
+
+CMD에서 아래와 같이 gem을 이용해서 jekyll을 설치한다.
+
+```
+$ gem install jekyll
+```
+
+version을 확인했을때, 아래와 같이 출력되면 정상 설치된 것이다.
+
+![](/assets/jeklly-check.png)
+
+
+
+##### Jekyll 사용해보기
+
+이제 마지막으로 window에서 Jekyll을 사용하는 부분만 남았다.
+
+Jekyll을 사용하는 가장 간단한 방법은 Jekyll의 홈페이지의 [Quick-start guide](https://jekyllrb.com/docs/quickstart/)에 잘 나와 있다.
+
+![](/assets/jekyll-start.png)
+
+window의 cmd에서 위 명령어들을 수행시 시간이 약간 오래 걸릴 수 있다.
+
+참을성 있게 기다리면 정상적으로 해당 명령어들이 잘 수행된다.
+
+
+
+아래 그림은 실제 위 명령어 들을 window cmd에서 수행해본 결과이다.
+
+```
+$ gem install jekyll bundler
+```
+
+![](/assets/jekyll-bundler-install.png)
+
+```
+$ jekyll new blog
+```
+
+![](/assets/jekyll-new-blog.png)
+
+```
+bundle exec jekyll serve
+```
+
+![](/assets/jekyll-bundle-start.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
