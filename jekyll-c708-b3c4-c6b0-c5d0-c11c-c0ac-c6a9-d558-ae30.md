@@ -16,8 +16,6 @@ Jekyll을 사용하려고 보니 아래와 같이 GUN/Linux, Unix, or macOS 에�
 * NodeJs
 * Python 2.7
 
-
-
 ##### Ruby 설치
 
 ruby window용 설치가 지원된다. 아래 사이트에서 다운 받아 설치한다.
@@ -35,8 +33,6 @@ ruby window용 설치가 지원된다. 아래 사이트에서 다운 받아 설�
 만약 command에러가 나는 경우, window에 PATH 정보에 ruby PATH 정보를 추가한다.
 
 기본적으로 설치시 PATH 옵션을 설정하였다면, 문제 없이 버전 정보를 볼 수 있다.
-
-
 
 ##### Ruby development headers 설치
 
@@ -63,7 +59,17 @@ ruby dk.rb install
 
 ![](/assets/ruby-dev-kit-install-success.png)
 
-##### 
+
+
+##### RubyGems 설치 확인
+
+아래와 같이 `gem --version`  명령어를 사용해서 확인한다. ruby가 정상 설치되어있다면.
+
+정상적으로 잘 나올 것이다.
+
+![](/assets/rubyGems-check.png)
+
+
 
 ##### Node.js 설치
 
@@ -77,8 +83,6 @@ ruby dk.rb install
 
 ![](/assets/node-js-install-check.png)
 
-
-
 ##### Python 2.7 설치
 
 아래 사이트에서 받아서 설치하면 된다. 단 버전에 따라 동작이 다를 수 있음으로 2.7.xx 버전을 찾아서
@@ -89,13 +93,13 @@ ruby dk.rb install
 
 ![](/assets/python-install.png)
 
-
-
 버전을 선택하고 나면 나오는 아래와 같은 화면에서, Window용 설치파일인 windows MSI Installer을 자신의 os
 
 에 맞게 설치한다. 64bit면 x86-64 버전으로...
 
 ![](/assets/python2.7-version-select.png)
+
+
 
 
 
