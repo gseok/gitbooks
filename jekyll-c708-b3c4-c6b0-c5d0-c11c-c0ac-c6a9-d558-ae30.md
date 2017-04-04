@@ -113,8 +113,6 @@ C:\Python27;C:\Python27\Scripts;
 
 ![](/assets/python-check.png)
 
-
-
 ##### Jekyll 설치하기
 
 여기까지 진행했으면, Jekyll을 window에서 설치해서 사용하기 위한 기본 requirements에 대한 설정은 완료 되었다.
@@ -133,8 +131,6 @@ version을 확인했을때, 아래와 같이 출력되면 정상 설치된 것�
 
 ![](/assets/jeklly-check.png)
 
-
-
 ##### Jekyll 사용해보기
 
 이제 마지막으로 window에서 Jekyll을 사용하는 부분만 남았다.
@@ -146,8 +142,6 @@ Jekyll을 사용하는 가장 간단한 방법은 Jekyll의 홈페이지의 [Qui
 window의 cmd에서 위 명령어들을 수행시 시간이 약간 오래 걸릴 수 있다.
 
 참을성 있게 기다리면 정상적으로 해당 명령어들이 잘 수행된다.
-
-
 
 아래 그림은 실제 위 명령어 들을 window cmd에서 수행해본 결과이다.
 
@@ -171,17 +165,9 @@ bundle exec jekyll serve
 
 
 
+이제 브라우저에서. `http://127.0.0.1:4000/` 에 접속해 보자.. 
 
-
-
-
-
-
-
-
-
-
-
+아래와 같이 정상적으로 동작함을 볼 수 있다.![](/assets/window-run-jekyll.png)
 
 
 
