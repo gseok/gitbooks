@@ -10,6 +10,8 @@ Jekyll을 사용하려고 보니 아래와 같이 GUN/Linux, Unix, or macOS 에�
 
 ![](/assets/jekyll-requirements.png)
 
+필요한 모듈들.. 아래 모듈을 차례대로 window에서 설치한다.
+
 * Ruby
 * Ruby development headers
 * RubyGems \(Ruby 설치하면 같이 설치됨\)
@@ -95,8 +97,6 @@ ruby dk.rb install
 
 ![](/assets/python-version-files.png)
 
-
-
 python을 설치하고 나면, PATH을 설정해 주어야 한다.
 
 ```
@@ -112,8 +112,4 @@ C:\Python27;C:\Python27\Scripts;
 아래와 같이 출력되면 정상 설치된 것이다.
 
 ![](/assets/python-check.png)
-
-
-
-
 
