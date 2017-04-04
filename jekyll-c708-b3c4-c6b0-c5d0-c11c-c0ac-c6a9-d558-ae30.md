@@ -10,8 +10,6 @@ Jekyll을 사용하려고 보니 아래와 같이 GUN/Linux, Unix, or macOS 에�
 
 ![](/assets/jekyll-requirements.png)
 
-
-
 * Ruby
 * Ruby development headers
 * RubyGems \(Ruby 설치하면 같이 설치됨\)
@@ -65,7 +63,7 @@ ruby dk.rb install
 
 ![](/assets/ruby-dev-kit-install-success.png)
 
-
+##### 
 
 ##### Node.js 설치
 
@@ -81,11 +79,23 @@ ruby dk.rb install
 
 
 
-Python 2.7 설치
+##### Python 2.7 설치
+
+아래 사이트에서 받아서 설치하면 된다. 단 버전에 따라 동작이 다를 수 있음으로 2.7.xx 버전을 찾아서
+
+설치한다.
 
 [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
+![](/assets/python-install.png)
 
+
+
+버전을 선택하고 나면 나오는 아래와 같은 화면에서, Window용 설치파일인 windows MSI Installer을 자신의 os
+
+에 맞게 설치한다. 64bit면 x86-64 버전으로...
+
+![](/assets/python2.7-version-select.png)
 
 
 
