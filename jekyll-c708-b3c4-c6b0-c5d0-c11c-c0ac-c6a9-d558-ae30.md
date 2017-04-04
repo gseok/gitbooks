@@ -59,8 +59,6 @@ ruby dk.rb install
 
 ![](/assets/ruby-dev-kit-install-success.png)
 
-
-
 ##### RubyGems 설치 확인
 
 아래와 같이 `gem --version`  명령어를 사용해서 확인한다. ruby가 정상 설치되어있다면.
@@ -68,8 +66,6 @@ ruby dk.rb install
 정상적으로 잘 나올 것이다.
 
 ![](/assets/rubyGems-check.png)
-
-
 
 ##### Node.js 설치
 
@@ -97,7 +93,25 @@ ruby dk.rb install
 
 에 맞게 설치한다. 64bit면 x86-64 버전으로...
 
-![](/assets/python2.7-version-select.png)
+![](/assets/python-version-files.png)
+
+
+
+python을 설치하고 나면, PATH을 설정해 주어야 한다.
+
+```
+C:\Python27;C:\Python27\Scripts;
+```
+
+제어판 &gt; 모든 제어판 항목 &gt; 시스템 &gt; 고급 시스템 설정 &gt; 환경변수 &gt; 시스템 변수 &gt; Path
+
+을 찾아서, 위 값을 추가한다.
+
+![](/assets/window-env-setting.png)
+
+아래와 같이 출력되면 정상 설치된 것이다.
+
+![](/assets/python-check.png)
 
 
 
